@@ -1,0 +1,6 @@
+com\gestiongastos\back\repository\IGastoRepository.class
+com\gestiongastos\back\model\Gasto.class
+com\gestiongastos\back\service\GastoService.class
+com\gestiongastos\back\controller\GastoController.class
+com\gestiongastos\back\service\IGastoService.class
+com\gestiongastos\back\BackApplication.class
